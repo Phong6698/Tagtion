@@ -1,4 +1,4 @@
-package ch.chiramet.tagtion;
+package ch.chiramet.tagtion.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
