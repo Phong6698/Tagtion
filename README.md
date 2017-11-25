@@ -1,2 +1,2 @@
 # Tagtion-API
-A REST API for hashTAG collecTION application
+A REST API for Tagtion (hashTAG collecTION) application
